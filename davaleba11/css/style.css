@@ -1,0 +1,271 @@
+@import url("//cdn.web-fonts.ge/fonts/archyedt-thin/css/archyedt-thin.min.css");
+
+
+.project,.motxovnebi,.explore,.shesvla,.search{
+    font-family: "ArchyEDT-Thin", sans-serif;
+    font-weight: bold;
+    margin: 35px;
+    font-size: 20px;
+  
+    
+    
+} 
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.header{
+    
+    display: flex;
+    justify-content: space-between;
+    margin: 40px;
+    
+   
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+   
+    
+}
+
+
+
+.img2{
+    width: 1550px;
+    margin-left: 40px;
+}
+
+
+
+
+
+.subcontainer{
+    width: 320px;
+    height: 50px;
+    position: absolute;
+    
+
+}
+
+.popular{
+    font-family: "ArchyEDT-Thin", sans-serif;
+    font-size: 40px;
+
+}
+
+.mini-container{
+    width: 600px;
+    height: 682px;
+    margin-top: 150px;
+    margin-left: 50px;
+    display: flex;
+    
+    
+  
+    
+   
+}
+
+.subcontainer2{
+    width: 483px;
+    height: 563px;
+    margin-top: 100px;
+    
+ 
+   
+   
+}
+
+.satauri{
+    font-family: "ArchyEDT-Thin", sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: 30px;
+
+}
+
+.statia{
+    font-family: "ArchyEDT-Thin", sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: 30px;
+
+}
+
+.more{
+    font-family: "ArchyEDT-Thin", sans-serif;
+    float: right;
+    margin-right: 30px;
+    font-size: 24px;
+    margin-top: 100px;
+    font-weight: bold;
+
+}
+
+
+
+.subcontainer3{
+    width: 483px;
+    height: 563px;
+    margin-top: 100px;
+    margin-left: 100px;
+   
+  
+}
+
+.subcontainer4{
+    width: 608px;
+    height: 563px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.mini-container2{
+    width: 1641px;
+    height: 682px;
+    margin-left: 50px;
+    margin-top: 100px;
+    display: flex;
+    
+}
+
+.load{
+    width: 134px;
+    height: 37px;
+    margin-left: 750px;
+   
+}
+
+
+
+.clear{
+    clear: both;
+    
+}
+
+.load-more{
+    font-family: "ArchyEDT-Thin", sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.subcontainer-mini1{
+    width: 268px;
+    height: 50px;
+}
+
+.bolo{
+    font-family: "ArchyEDT-Thin", sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+
+}
+
+.subcontainer-mini2{
+    width: 483px;
+    height: 563px;
+    margin-top: 100px;
+    margin-left: -268px;
+}
+
+.subcontainer-mini3{
+    width: 483px;
+    height: 563px;
+    margin-top: 100px;
+    margin-left: 80px;
+    
+}
+
+.subcontainer-mini4{
+    width: 483px;
+    height: 563px;
+    margin-top: 100px;
+    margin-left: 80px;
+}
+
+.footer-div{
+    width: 1920px;
+    height: 207px;
+    background-color: #2E2E2E;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.footer-subcontainer1{
+    width: 113px;
+    height: 59px;
+    font-family: "ArchyEDT-Thin", sans-serif;
+
+}
+
+.number{
+    font-size: 13px;
+    color: white;
+    margin-left: -100px;
+}
+
+.contact{
+    font-size: 20px;
+    color: white;
+    margin-left: -100px;
+}
+
+.info{
+    font-size: 13px;
+    color: white;
+    margin-left: -100px;
+}
+
+.footer-subcontainer2{
+    width: 161px;
+    height: 40px;
+    font-family: "ArchyEDT-Thin", sans-serif;
+   
+}
+
+.misamarti{
+    font-size: 19px;
+    color: white;
+    margin-left: -100px;
+}
+
+.merab{
+    font-size: 13px;
+    color: white;
+    margin-left: -100px;
+}
+
+.footer-img{
+    margin-left: -100px;
+}
+
+
+.footer-icons{
+    width: 122px;
+    height: 43px;
+
+   
+}
+
+.instagram{
+    margin-left: 30px;
+}
+
+@media screen and (max-width:900px){
+    .project,.motxovnebi,.explore,.shesvla{
+        display: none;
+    }
+
+    .search{
+        position: absolute;
+        transform: translate(900%);
+    }
+}
